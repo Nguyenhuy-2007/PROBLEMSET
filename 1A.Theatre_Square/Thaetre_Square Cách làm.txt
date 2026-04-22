@@ -1,0 +1,7 @@
+- Nhập n, m, a
+- Xuất ra kích thước quảng trường và kích thước phiến đá
+- Dùng công thức:
+     + Số phiến đá để lát theo chiều n của quảng trường: (n+a-1)/a   (lấy phần nguyên)
+     + Số phiến đá để lát theo chiều m của quảng trường: (m+a-1)/a   (lấy phần nguyên)
+- Lấy 2 đáp án trên nhân vào
+- Xuất ra số phiến đá cần để lát cho quảng trường
